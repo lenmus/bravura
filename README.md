@@ -1,4 +1,4 @@
-# bravura: Bravura SMuFL font package for LenMus projects
+# Bravura SMuFL font package for LenMus projects
 
 Bravura is an OpenType music font designed by Daniel Spreadbury at Steinberg.
 
